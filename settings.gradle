@@ -1,0 +1,1 @@
+include ':Demo', ':app', ':base', ':instantapp'
